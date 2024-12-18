@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
               child: Container(
                 alignment: Alignment.center,
                 // color: Colors.deepPurple,
-                // child: const Text('Layout superior'),
+                child: const Text('Atividade 2, discipliana 11: desenvolvimento WEB'),
               ),
             ),
             Expanded(
@@ -101,7 +101,7 @@ class _HomePageState extends State<HomePage> {
               child: Container(
                 alignment: Alignment.center,
                 //color: const Color.fromARGB(255, 164, 26, 176),
-                // child: const Text('Layout inferior'),
+                child: const Text('Lorrana Gabriela'),
               ),
             ),
           ],
